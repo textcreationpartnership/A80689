@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>November 5th, 1645. The county of Suffolke divided into fourteene precincts for classicall Presbyteries together with the names of the ministers and others nominated by the committee of the said county, according to master speakers direction by letter; with the names of the severall committees of the county of Suffolke in their severall divisions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80689</idno>
+            <idno type="STC">Wing C6573A</idno>
+            <idno type="STC">ESTC R231336</idno>
+            <idno type="EEBO-CITATION">99897278</idno>
+            <idno type="PROQUEST">99897278</idno>
+            <idno type="VID">170828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2478:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>November 5th, 1645. The county of Suffolke divided into fourteene precincts for classicall Presbyteries together with the names of the ministers and others nominated by the committee of the said county, according to master speakers direction by letter; with the names of the severall committees of the county of Suffolke in their severall divisions.</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Christopher Meredith at the Crane in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyteries --  England --  Suffolk --  Early works to 1800.</term>
+               <term>Suffolk (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170828:1"/>
+            <pb facs="tcp:170828:1"/>
+            <p>THE COVNTY OF SVFFOLKE Divided into Four<g ref="char:EOLhyphen"/>teene Precincts for Claſsicall Presbyteries, together with the names of the Miniſters and others nominated by the Committee of the ſaid County, accor<g ref="char:EOLhyphen"/>ding to Maſter Speakers Direction by Letter; With the names of the ſeverall Committees of the County of <hi>Suffolke</hi> in their ſeverall Diviſions.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Chriſtopher Meredith</hi> at the <hi>Crane</hi> in <hi>Pauls Church-yard.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170828:2"/>
+            <pb facs="tcp:170828:2"/>
+            <head>The names of the ſeverall Committees for the County of Suf<g ref="char:EOLhyphen"/>folke in their Severall Diviſions, <date>
+                  <hi>November.</hi> 5. 1645.</date>
+            </head>
+            <div n="1" type="division">
+               <head>The firſt Diviſion containing the Hundred of <hi>Samford</hi> with the Towne of <hi>Polſtead;</hi> their meeting ap<g ref="char:EOLhyphen"/>pointed at <hi>Eaſt Bergholt.</hi>
+               </head>
+               <list>
+                  <head>For the firſt Diviſion.</head>
+                  <item>SIr <hi>Philip Parker</hi>
+                  </item>
+                  <item>
+                     <hi>John Gurdon</hi> Eſquier</item>
+                  <item>
+                     <hi>William Cage</hi> Eſquier</item>
+                  <item>
+                     <hi>Tho. Bloſſe</hi> Eſquier.</item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>M<hi rend="sup">r</hi>. Joſeph Clifford of Belſtead</item>
+                  <item>Robert VVicks of Erwarton</item>
+                  <item>Gilbert Coxe of VVaſhbrooke</item>
+                  <item>Samuel Hudſon of Capell</item>
+                  <item>John Trebick of Eeſt-Bergholt</item>
+                  <item>Robert Aſty of Sratford</item>
+                  <item>Tho. VVarren of Polſtead</item>
+                  <item>Bezaleel Carter of VVolverſtone</item>
+               </list>
+               <list>
+                  <head>Others to be joyned with the Miniſters.</head>
+                  <item>Charles Ueaſey Gent. of Hintle<g ref="char:EOLhyphen"/>ſham.</item>
+                  <item>Lionell Bacon Gent. of Heigham</item>
+                  <item>Capt Richard Gooding Gent. of Wherſtead</item>
+                  <item>Capt. Jonathan Goff of E.</item>
+               </list>
+               <list>
+                  <head>Bergholt.</head>
+                  <item>Daniell Wall of Stratford</item>
+                  <item>Rodes Hayward of E. Bergholt</item>
+                  <item>John Layman ſen. of E. Bergholt</item>
+                  <item>Richard Patridge of Bently</item>
+                  <item>Sam. Dale of Burſtoll</item>
+                  <item>Chriſtoph. Hayward of Freſſon</item>
+                  <item>Chriſtoph. Hayward of Wolver<g ref="char:EOLhyphen"/>ſtone.</item>
+                  <item>Tho. Lumley of Roydon</item>
+                  <item>John Stephens of Stratford</item>
+                  <item>James Hayward of E. Bergholt</item>
+                  <item>John Trenham of E. Bergholt</item>
+                  <item>John Pope of E. Bergholt</item>
+               </list>
+            </div>
+            <div n="2" type="division">
+               <head>The 2. Diviſion containing the Towne of <hi>Jpſwich</hi> and the liber<g ref="char:EOLhyphen"/>ties, and the Hundred of <hi>Colnes</hi> and <hi>Calford:</hi> their meeting appointed at <hi>Jpſwich.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>William Bloyſe</hi> Eſquier</item>
+                  <item>
+                     <hi>Nathaniell Bacon</hi> Eſquier</item>
+               </list>
+               <pb n="2" facs="tcp:170828:3"/>
+               <list>
+                  <head>The Bayliffes for time being of Jpſwich.</head>
+                  <item>
+                     <hi>John Brandlyn</hi> Eſquier</item>
+                  <item>
+                     <hi>Peter Fiſher</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Duncon</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>of Ipſwich
+<list>
+                        <item>M<hi rend="sup">r</hi> Matth. Laurence</item>
+                        <item>John Ward</item>
+                        <item>Robert Stansby</item>
+                        <item>John Fuller</item>
+                        <item>Nicholas Stanton</item>
+                     </list>
+                  </item>
+                  <item>John Harriſon of Trimleyes</item>
+                  <item>Tho. Warren of Witneſham</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>John Clinch of Culpho Eſquier</item>
+                  <item>Tho. Atherall of Burgh Eſquier</item>
+                  <item>Capt. Daniell Clinch of Burgh</item>
+                  <item>Ellis Jeſſup of Grunsburge</item>
+                  <item>Jpſwich
+<list>
+                        <item>Joſeph Pemberton</item>
+                        <item>Manuell Sorrell</item>
+                        <item>Richard Jennings</item>
+                        <item>Jacob Caley</item>
+                        <item>Henry Parkhurſt</item>
+                        <item>Tho Browne</item>
+                        <item>Chriſtopher Glaſcock</item>
+                        <item>Benjamin Wade</item>
+                        <item>Iſaak Day, Senior</item>
+                        <item>William Hawys, Sen.</item>
+                     </list>
+                  </item>
+               </list>
+            </div>
+            <div n="3" type="division">
+               <head>The third Diviſion containing the Hundred of <hi>Loes, Wilford</hi> &amp; <hi>Thredling;</hi> their meeting appoin<g ref="char:EOLhyphen"/>ted at <hi>Wickham-Markett.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>John Cotton</hi> Eſquier.</item>
+                  <item>
+                     <hi>Iohn Hodges</hi> Eſquier.</item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>M<hi rend="sup">r</hi>. Robert Cade of Woodbridge</item>
+                  <item>Charles Nickolets of Winſton</item>
+                  <item>Richard Goulty of Framing<g ref="char:EOLhyphen"/>ham.</item>
+                  <item>Robert Sayer of Cretingham</item>
+                  <item>Patrick Lindſay of Earle-ſo<g ref="char:EOLhyphen"/>ham.</item>
+                  <item>VV. Redgrave of Rendleſham</item>
+                  <item>John Gyles of Debenham.</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>Tho. Redgrave of Woodbridge Gent.</item>
+                  <item>Gregory Nicholls of Dallinghoe</item>
+                  <item>Edward Hamond of Ufford</item>
+                  <item>Robert Smith of Wickham Gent</item>
+                  <item>Capt. Richard Turnor of Wick<g ref="char:EOLhyphen"/>ham.</item>
+                  <item>John Harriſon of Alderton</item>
+                  <item>Oliver Stebbing of Earle Soham</item>
+                  <item>Henry Stebbing of Brandeſtone Gent.</item>
+                  <item>John Lovell of Debenham</item>
+                  <item>Henry Blumfeild of Debenham</item>
+                  <item>Jſaak Woodcocke of Framling<g ref="char:EOLhyphen"/>ham.</item>
+                  <item>John Bond of Aſhfeild</item>
+                  <item>George Keede of Sutton</item>
+                  <item>John Smith of Framlingham.</item>
+               </list>
+            </div>
+            <div n="4" type="division">
+               <head>The fourth Diviſion containing the Hundred of <hi>Plunsgate</hi> with the Corporation of <hi>Aldeburge</hi> &amp; <hi>Orford,</hi> with the Pariſhes of <hi>Fe<g ref="char:EOLhyphen"/>berton, Knodiſhal, Middleton, Fodley, Layſon,</hi> and <hi>Aldringham cum Thorpe</hi> in <hi>Blything</hi> Hundred, and
+<pb n="3" facs="tcp:170828:3"/>
+                  <hi>Kelliſhall,</hi> and <hi>Carleton</hi> in <hi>Hoxon</hi> Hundred: their meeting appoin<g ref="char:EOLhyphen"/>ted at <hi>Saxmundham.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Alexander Bence</hi> Eſquier</item>
+                  <item>
+                     <hi>Squire Bence</hi> Eſquire</item>
+                  <item>
+                     <hi>Thomas Bacon</hi> Eſquier</item>
+                  <item>
+                     <hi>John Baſe</hi> Gent.</item>
+               </list>
+               <list>
+                  <head>Miniſters</head>
+                  <item>M<hi rend="sup">r</hi>. Tho. Nuttall of Saxmund<g ref="char:EOLhyphen"/>ham.</item>
+                  <item>John Swayne of Crasnford</item>
+                  <item>William Powell of Kendham</item>
+                  <item>George Jarmy of Knodishall</item>
+                  <item>Samuel Pearce of Kelliſhall</item>
+                  <item>Thomas Bathoe of Layſton</item>
+                  <item>John Thirlby of Orford.</item>
+                  <item>Searles of Aldeburge.</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>Capt. Tho. Johnſon of Alde<g ref="char:EOLhyphen"/>burgh.</item>
+                  <item>Capt. Henry Cheney of Alde<g ref="char:EOLhyphen"/>burgh.</item>
+                  <item>Tho. Edgar of North Glemham Gent.</item>
+                  <item>Tho. French of Knodiſhall</item>
+                  <item>Edward Pratt of Freſtone</item>
+                  <item>William Mace of Cransford</item>
+                  <item>Richard Crow of Kelliſhall</item>
+                  <item>John King of Farnham</item>
+                  <item>Nathan: Flower. Dew of Farn<g ref="char:EOLhyphen"/>ham.</item>
+                  <item>John Mannock of Saxmundham</item>
+                  <item>William French of Kelliſhall</item>
+                  <item>Capt. Edmund Bence of Benhall</item>
+                  <item>Robert Mann of Rendham</item>
+                  <item>Tho. Grimsby of Benhall</item>
+                  <item>John White of Benhall</item>
+                  <item>William Aldus ſen. of Saxmund<g ref="char:EOLhyphen"/>ham.</item>
+               </list>
+            </div>
+            <div n="5" type="division">
+               <head>The Fifth Diviſion containing the Hundred of <hi>Blything,</hi> with the Corporations of <hi>Dunwich</hi> &amp; <hi>Sowald</hi> excepting the Townes of <hi>Blything</hi> Hundred in the fourth Diviſion, their meeting appoin<g ref="char:EOLhyphen"/>ted at <hi>Haleſworth.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>Robert Brooke</hi> Knight</item>
+                  <item>Sir <hi>John Rouſe</hi> Knight</item>
+                  <item>
+                     <hi>John Brooke</hi> Eſquire</item>
+                  <item>
+                     <hi>William Hevingham</hi> Eſquier</item>
+                  <item>
+                     <hi>Rob. Brewſter</hi> Eſquier</item>
+                  <item>
+                     <hi>Francis Brewſter</hi> Eſquier</item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>M<hi rend="sup">r</hi>. John Philips of Wrentham</item>
+                  <item>Benjamin Fairefax of Rom<g ref="char:EOLhyphen"/>borough</item>
+                  <item>William Cockraym of Weſt<g ref="char:EOLhyphen"/>hall.</item>
+                  <item>Nicholas Leverton of Heve<g ref="char:EOLhyphen"/>ningham.</item>
+                  <item>William Dowglaſſe of Yox<g ref="char:EOLhyphen"/>ford</item>
+                  <item>Henry Young of Blithburgh</item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Wood of Henſtead</item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Browne of Dunwich</item>
+               </list>
+               <list>
+                  <head>Others to be joyned with the Miniſters.</head>
+                  <item>Anthony Baker of Wrentham</item>
+                  <item>Thomas Slath of Wrentham</item>
+                  <item>James Keeble of Haleſworth</item>
+                  <pb n="4" facs="tcp:170828:4"/>
+                  <item>Francis Verdon of Linſtead</item>
+                  <item>William Knights of Cheſten</item>
+                  <item>William Bird of Dunwich</item>
+                  <item>James Harvy of Wiſſett</item>
+                  <item>Hoyſtens Wilkinſon of Lin<g ref="char:EOLhyphen"/>ſtead</item>
+                  <item>Thomas Reeve of Walpoole</item>
+                  <item>Chriſtopher Berry of Weſleton</item>
+                  <item>Thomas Crowfoot of Vggeſhall</item>
+                  <item>Gualter Strowjer of Cheſten</item>
+                  <item>Nicholas Veaſey of Yoxford</item>
+                  <item>Richard Thomſon of Rom<g ref="char:EOLhyphen"/>borough</item>
+                  <item>William Smith of Yoxford</item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Barker of Sibton Eſquier</item>
+               </list>
+            </div>
+            <div n="6" type="division">
+               <head>The ſixt Diviſion containeth the Hundred of <hi>Wangford, Mut<g ref="char:EOLhyphen"/>ford</hi> and <hi>Lothingland,</hi> their mee<g ref="char:EOLhyphen"/>ting appointed at <hi>Beckles.</hi>
+               </head>
+               <list>
+                  <item>Sir Butts Bacon Knight</item>
+                  <item>Sir William Playters Knight</item>
+                  <item>Sir John Wentworth Knight</item>
+                  <item>Theophilus Vaughan Eſquier</item>
+                  <item>Edward Reed Eſquier</item>
+               </list>
+               <list>
+                  <head>Miniſters</head>
+                  <item>Mr. VV. Hodgeskin of Ruſhmer</item>
+                  <item>George Cock of Barſham</item>
+                  <item>Edmond Barber of Somerly-Towne</item>
+                  <item>James Aldrich of Bradwell</item>
+                  <item>John Clarke of Beckles</item>
+                  <item>John Allen of Metingham</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>Humphrey Brewſter of North Cove Gent.</item>
+                  <item>William Smith of Al-Saints</item>
+                  <item>Benjamin Staygolt of Gorl<g ref="char:EOLhyphen"/>ſton</item>
+                  <item>Samuell Newſon of Michaels</item>
+                  <item>Richard Battelly of Andrewes</item>
+                  <item>Edmond Nevill of Beccles</item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Eacherd of Barſham Gent.</item>
+                  <item>Samuell Cock of Barſham</item>
+                  <item>VVilliam Ricks of Michaels</item>
+                  <item>Richard Page of Redſham</item>
+                  <item>Francis Aldrich of Somerley Towne</item>
+                  <item>Edmond Harvy of Giſleham Gent.</item>
+               </list>
+            </div>
+            <div n="7" type="division">
+               <head>The ſeventh Diviſion containing the Hundred of <hi>Boſmer,</hi> and <hi>Clay<g ref="char:EOLhyphen"/>don</hi> and <hi>Stow,</hi> their meeting ap<g ref="char:EOLhyphen"/>pointed at <hi>Coddenham.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>Roger North</hi> Knight</item>
+                  <item>
+                     <hi>Thomas Terrill</hi> Eſquire</item>
+                  <item>
+                     <hi>Francis Bacon</hi> Eſquire</item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. Thomas Young of Stow-Market</item>
+                  <item>Thomas Sotheby of Combes</item>
+                  <item>Samuell Spring of Creeting</item>
+                  <item>John Penn of Newton</item>
+                  <item>Jeremy Catlyn of Burgham</item>
+                  <item>Matthias Candler of Coddenha<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <pb facs="tcp:170828:4"/>
+                  <item>John Swayne of Stoneham Aſhpall</item>
+                  <item>Samuel Bathe of Hemmingſton</item>
+                  <item>Henry Cooper of Earleſtone<g ref="char:EOLhyphen"/>ham</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>James Tyrill of Chipping <abbr>Eſq</abbr>
+                  </item>
+                  <item>Captaine George Sparling of Needham</item>
+                  <item>Richard Girling of Coddenham</item>
+                  <item>Barnaby Gibſon of Little Stone<g ref="char:EOLhyphen"/>ham</item>
+                  <item>Dennis VVhinnery of Earleſton<g ref="char:EOLhyphen"/>ham</item>
+                  <item>John Smith of Helmingſton</item>
+                  <item>Edmond Blunfeild of Aſhpal<g ref="char:EOLhyphen"/>ſtonham</item>
+                  <item>John Hayward of Stowemarket</item>
+                  <item>John Revel of VVeſt Creeting</item>
+                  <item>John Goſlyn of Earlſtonham</item>
+                  <item>John Martyn of Earlſtonham</item>
+                  <item>William Richardſon of Cree<g ref="char:EOLhyphen"/>ting</item>
+                  <item>Thomas Rewſe of Creeting</item>
+                  <item>Edward Clough of Combs</item>
+                  <item>Edmund Mayhoe of Gosbeck</item>
+                  <item>Thomas Dey Ibid. Gent.</item>
+                  <item>Edmond Dove of Coddenham Gent.</item>
+                  <item>Francis Blowers of Blackenham Parva</item>
+               </list>
+            </div>
+            <div n="8" type="division">
+               <head>The eighth Diviſion containeth the Hundred of <hi>Hoxon,</hi> except <hi>Relliſhall</hi> and <hi>Carleton,</hi> their mee<g ref="char:EOLhyphen"/>ting appointed at <hi>Stradbrooke.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Nicholas Bacon</hi> Eſquier</item>
+                  <item>
+                     <hi>Henry North</hi> Eſquier</item>
+                  <item>
+                     <hi>Thomas Baker</hi> Eſquire</item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. Richard Holmſtead of De<g ref="char:EOLhyphen"/>nington</item>
+                  <item>Thomas Crosby of Laxfeild</item>
+                  <item>Joſeph Ward of Baddingham</item>
+                  <item>John Aſhburne of Monke<g ref="char:EOLhyphen"/>ſoham</item>
+                  <item>Francis Herdſon of VVilby</item>
+                  <item>Paul Raynham of Bedfield</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters</head>
+                  <item>George Borret Senior of Strad<g ref="char:EOLhyphen"/>brooke</item>
+                  <item>Capt. John Boxter of Mend<g ref="char:EOLhyphen"/>ham</item>
+                  <item>John Tuthill of VVay-bread</item>
+                  <item>Samuell Laurence of Syleham</item>
+                  <item>Capt. Anthony Barry of Syle<g ref="char:EOLhyphen"/>ham</item>
+                  <item>Samuell Bancroft of Monke Soham</item>
+                  <item>John Jeffery of Tannington</item>
+                  <item>John Smith of Dennington</item>
+                  <item>Thomas Hart of Syleham</item>
+                  <item>John Borrett of Laxfeild</item>
+                  <item>John Herring of Dennington</item>
+                  <item>Robert Bacon of Monke Soham</item>
+               </list>
+            </div>
+            <div n="9" type="division">
+               <head>The ninth Diviſion containing the Hundred of <hi>Hartſmire,</hi> their meeting appointed at <hi>Eye.</hi>
+               </head>
+               <pb facs="tcp:170828:5"/>
+               <list>
+                  <item>Sir <hi>Edmond Bacon,</hi> Knight and Barronet</item>
+                  <item>
+                     <hi>Wiſeman Bokenham</hi> Eſquire</item>
+                  <item>
+                     <hi>Ed. Harvey</hi> Eſquire</item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. Richard Chamberlaine of Rickingale ſuper</item>
+                  <item>Chriſtopher Wragg of Medle<g ref="char:EOLhyphen"/>ſham</item>
+                  <item>Abraham Chaplayne of VVe<g ref="char:EOLhyphen"/>theringſett</item>
+                  <item>Robert Andrewes of VVyver<g ref="char:EOLhyphen"/>ſtone</item>
+                  <item>Richard Proud of Thrandeſtone</item>
+                  <item>John Symonds of Giſlingham</item>
+                  <item>Robert Harris of Mellis</item>
+                  <item>John Forgan of Ockald</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>James Harvy of Eye Eſquier</item>
+                  <item>John Gray of Thrandeſtone Gent.</item>
+                  <item>Capt. VVilliam Seaman of Men<g ref="char:EOLhyphen"/>dleſham</item>
+                  <item>John Rivett of Ruſh-angles Gent</item>
+                  <item>John Grocer of VVeſtthrope</item>
+                  <item>Thomas Ruſt of Rickingale ſuper.</item>
+                  <item>John Ruſt of VVartham</item>
+                  <item>John Kew of Burgate</item>
+                  <item>Samuell Flowerdew of Eye</item>
+                  <item>VVilliam Freeman of Giſling<g ref="char:EOLhyphen"/>ham</item>
+                  <item>Barnaby Barker of Mendleſham</item>
+                  <item>Thomas Folkard of Mendle<g ref="char:EOLhyphen"/>ſham</item>
+                  <item>Thomas Hubbard of Oakely</item>
+                  <item>William Hunting of Thrande<g ref="char:EOLhyphen"/>ſtow</item>
+                  <item>Robert Savage of Wetheringſett</item>
+                  <item>Edward Baldry of Wyverſtone</item>
+               </list>
+            </div>
+            <div n="10" type="division">
+               <head>The tenth Diviſion containing the Hundred of <hi>Blackborne,</hi> their meeting appointed at <hi>Irworth.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Mauris Barrow</hi> Eſquire</item>
+                  <item>Sir <hi>Symonds Drury</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. Phillip Jacob of Ricking<g ref="char:EOLhyphen"/>gale Junior</item>
+                  <item>Robert Howlet of Hinderclay</item>
+                  <item>Clement Ray of Watsfeild</item>
+                  <item>John Legate of Barnham</item>
+                  <item>George Speede of Stowlangtoft</item>
+                  <item>Munns of Norton</item>
+               </list>
+               <list>
+                  <head>Others to be added to the Miniſters.</head>
+                  <item>John Osborne Gent. of Wats<g ref="char:EOLhyphen"/>feild</item>
+                  <item>Capt. Page of VValſham</item>
+                  <item>Thomas Rampley ſen. of VVal<g ref="char:EOLhyphen"/>ſham</item>
+                  <item>Henry Rewſe of Fakenham</item>
+                  <item>Edmond Craske of Bardwell</item>
+                  <item>John Craske of Irworth</item>
+                  <item>Edward Cole of Fakenham magna</item>
+                  <item>Thomas Syer of Langham</item>
+                  <item>VVilliam Barnes of Elmſwell</item>
+                  <item>Symon Smith of Hunſton</item>
+                  <item>John Amys Jun. of Hunſton</item>
+               </list>
+            </div>
+            <div n="11" type="division">
+               <pb n="7" facs="tcp:170828:5"/>
+               <head>The eleventh Diviſion contai<g ref="char:EOLhyphen"/>ning the Hundred of <hi>Thingo, Lackeford,</hi> and <hi>Thedwaſtr.</hi> with the Corporation of <hi>Bury,</hi> their meeting appointed at <hi>Bury.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>William Spring</hi> Baronet.</item>
+                  <item>
+                     <hi>Robert Reynolds</hi> Eſquire</item>
+                  <item>
+                     <hi>Richard Pepys</hi> Eſquire</item>
+                  <item>
+                     <hi>Gibſon Lucas</hi> Gent.</item>
+                  <item>
+                     <hi>Samuel Moody</hi> Gent.</item>
+                  <item>
+                     <hi>Thomas Chaplin</hi> Gent.</item>
+                  <item>
+                     <hi>Thomas Gypps</hi> Gent.</item>
+                  <item>The Alderman for the time being of <hi>Bury.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. John Wall of Bury</item>
+                  <item>Peter Saint-Hill of Bury</item>
+                  <item>John Clegate of Bury</item>
+                  <item>John Hale of Mildenhall</item>
+                  <item>Ambroſe Salisbury of Whep<g ref="char:EOLhyphen"/>ſtead</item>
+                  <item>Edward Wright of Pakenham</item>
+                  <item>John Cradock of Barrow</item>
+                  <item>Zachary Catlin of Thurſtone</item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Downes of Brockly.</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>Dr. <hi>Jaſp. Deſpotine</hi> of Bury</item>
+                  <item>John Clerk of Bury</item>
+                  <item>Myles Burrough of Bury</item>
+                  <item>Nathaniel Crask of Bury</item>
+                  <item>Wil. Fisk ſenior of Pakenham</item>
+                  <item>John Fiske of Ratlesden</item>
+                  <item>Henry Bright of Pakenham</item>
+                  <item>George Groome of Ratlesden</item>
+                  <item>John Sparrow of Read</item>
+                  <item>Samuel Sparrow of Depden</item>
+                  <item>Anthony Sparrow of Read</item>
+                  <item>Gregory Forgan of Ratlesden</item>
+                  <item>Olofernes Cook of Eirswel</item>
+                  <item>Thomas Wells of Risby</item>
+                  <item>Richard Gipps of Wheltham</item>
+                  <item>Thomas Sage of Hercunger</item>
+                  <item>John Sage of Wheltham</item>
+                  <item>Henery Munnings of Elden</item>
+               </list>
+            </div>
+            <div n="12" type="division">
+               <head>The twelfth Diviſion containing the Hundred of <hi>Cosford,</hi> with the Pariſhes of <hi>Monks Ely, Preſſon,</hi> and <hi>Milding</hi> of <hi>Babergh</hi> Hundred, their place of meeting appointed at <hi>Bilſtone.</hi>
+               </head>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. John Browning of Seamer</item>
+                  <item>Samuel Maile of Monks-Ely</item>
+                  <item>William Munning of Preſton</item>
+                  <item>Iſaac Hariſon of Hadleigh</item>
+                  <item>John Weild of Bildeſtone</item>
+                  <item>Myles Birkit of Hitcham</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>William Richardſon of Hadleigh Gent.</item>
+                  <item>Capt. Thomas Alabaſter, Ibid</item>
+                  <item>John Hudſon, Ibid</item>
+                  <item>Thomas Gates, Ibid</item>
+                  <item>Richard Tilſon, Ibid</item>
+                  <item>James Abbot, Ibid</item>
+                  <item>Will. Blumfield of Bildſton <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Markhant of Seamer</item>
+                  <item>VVilliam Chaplin of Hitcham</item>
+                  <item>Nathaniel Lovekin, Ibid</item>
+                  <item>VVilliam Cooke of Kerſey</item>
+                  <item>George day of Monks-Ely.</item>
+               </list>
+            </div>
+            <div n="13" type="division">
+               <pb n="8" facs="tcp:170828:6" rendition="simple:additions"/>
+               <head>The 13. Diviſion containing the Hundred of <hi>Babergh,</hi> with the Corporation of <hi>Sudbury,</hi> except <hi>Monks-Ely, Preſton, Milding,</hi> and <hi>Polſtead,</hi> their place of meeting appointed at <hi>Lavenham.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>Iſaac Appleton</hi> Eſquire</item>
+                  <item>
+                     <hi>Brampton Gurdon</hi> Senior Eſquire</item>
+                  <item>
+                     <hi>Brampton Gurdon</hi> Junior Eſquire</item>
+               </list>
+               <list>
+                  <head>Miniſters.</head>
+                  <item>Mr. Tho: Mott of Stoak-Naila<g ref="char:cmbAbbrStroke">̄</g>d</item>
+                  <item>Thomas VValker of Aſſingto<g ref="char:cmbAbbrStroke">̄</g>
+                  </item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Thornbeck of Bures</item>
+                  <item>VVilliam Leigh of Groton</item>
+                  <item>Francis Quarles of Newton</item>
+                  <item>William Gurnal of Lavenham</item>
+                  <item>Ric. Petchy of Waldingf. mag.</item>
+                  <item>Seth VVood of Melford</item>
+                  <item>Daniel Sutton of Cavendiſh</item>
+                  <item>John Smith of Cockfield</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>Dr. Goodyard of Lavenham</item>
+                  <item>Henry Copping Sen. Ibid</item>
+                  <item>John Mead Senior of Sudbury</item>
+                  <item>Col. John Fothergill, Ibid</item>
+                  <item>Joſeph Brand <abbr>Eſq</abbr> of Edwardſt:</item>
+                  <item>VVilliam Abbot of Sudbury</item>
+                  <item>John Pannel of Sudbury Junior</item>
+                  <item>John Cole of Sudbury</item>
+                  <item>John Kent of Nayland</item>
+                  <item>Iſaac Keyes of Nayland</item>
+                  <item>Edward Gerrard Ibid</item>
+                  <item>Thomas Winterfloud, Ibid</item>
+                  <item>Robert Allen of Aſſington</item>
+                  <item>Thomas Gilſon of Sudbury</item>
+                  <item>Francis Long, Ibid</item>
+                  <item>Roger Brown of Boxford</item>
+                  <item>Thomas Hubbard of Melford</item>
+                  <item>John Gerrard of Bures</item>
+                  <item>Robert Kerrington of Newton</item>
+                  <item>Roger Kerrington of Acton</item>
+               </list>
+            </div>
+            <div n="14" type="division">
+               <head>The 14<hi rend="sup">th</hi> Diviſion containing the Hundred of <hi>Riſbridg,</hi> their meeting place appointed at <hi>Clare.</hi>
+               </head>
+               <list>
+                  <item>Sir <hi>Nathan. Barnardiſton</hi> Knight</item>
+                  <item>Sir <hi>William Soam</hi> Knight</item>
+                  <item>Sir <hi>Thomas Barnardiſton</hi> Knight</item>
+                  <item>
+                     <hi>Henry North</hi> Junior Eſquire</item>
+                  <item>
+                     <hi>Thomas Cole</hi> Eſquire.</item>
+               </list>
+               <list>
+                  <head>Miniſters</head>
+                  <item>Mr. Richard Blakerby of Thurlo magn.</item>
+                  <item>Sam. Fairclough of Keddingt.</item>
+                  <item>John Allot of Thurlo Parva</item>
+                  <item>Roger Cook of Clare</item>
+                  <item>Sam. Boardman of Stansfield</item>
+                  <item>Barth: Adrian of Bradly mag.</item>
+               </list>
+               <list>
+                  <head>Others to be joyned to the Miniſters.</head>
+                  <item>John Soam of Bradly Parva</item>
+                  <item>Major Weſtthrop of Hundon</item>
+                  <item>Captain Samuel VVard, ibid</item>
+                  <item>Edmund Phillips of Clare</item>
+                  <item>Tho: Edwards Junior of Stoake</item>
+                  <item>Mr. Farrence of Haverhill</item>
+                  <item>John Ray of Denſtone</item>
+                  <item>George Moody of Moulton</item>
+                  <item>Robert French of Keddington</item>
+                  <item>Phil. Sparrow of Wickambrook</item>
+                  <item>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>Browne of Ouſden</item>
+                  <item>Nich: Tweed of Stoake</item>
+               </list>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>Theſe ſeverall Diviſions and Perſons are approved to be for Claſſi<g ref="char:EOLhyphen"/>call Preſbyteries within the County of</hi> Suffolke. <hi>Mancheſter.</hi> 
+                  <date>April 29. 1647.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:170828:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
